@@ -1,5 +1,7 @@
 # 💫 About Me:
 👋 Olá! Eu sou a Bruna Soug.<br>💻 Apaixonada por tecnologia desde os 12 anos, quando assisti à série de TV Chuck e fui cativada pelo mundo da computação. Desde então, decidi que queria trabalhar na área de Tecnologia da Informação. Atualmente, estou estudando Sistemas de Informação e me dedicando especialmente à linguagem Java, mas também me aventurando no Python e C.<br>🚀 Desenvolvimento de software, arquitetura de sistemas e soluções inovadoras em tecnologia são algumas das coisas que me deixam empolgada.<br><br>Bora colocar esse código pra rodar!<br>
+<br>"Eu só vejo os meus objetivos, não acredito em falhas
+porque sei que as menores vozes podem se tornar as maiores."<br>
 
 
 # 💻 Tech Stack:
