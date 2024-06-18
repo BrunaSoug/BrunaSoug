@@ -15,7 +15,7 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meus conhe
 ![](https://github-readme-stats.vercel.app/api?username=BrunaSoug&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrunaSoug&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaSoug&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 # 📧 Conecte-se Comigo:
 
