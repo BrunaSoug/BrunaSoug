@@ -1,24 +1,52 @@
-# 💫👩🏾‍🚀 Sobre mim:
-👋 Olá! Eu sou a Bruna Souza.
+<h4 align="left">Olá! 👋 Sou a Bruna Souza!<br><br>No meu mundo, a tecnologia é o joystick e o código, o meu power-up secreto! 🕹️ Atualmente, estou avançando de nível no curso de Sistemas de Informação. Minha quest principal? Dominar o universo robusto do Java <0xE2><0x9A><0x9A>️. Mas também estou upando minhas habilidades em Python 🐍 (ótimo para speedruns) e construindo uma base sólida em C <0xE2><0x9A><0x9B>️ (o early game essencial!).<br><br>Minhas fases favoritas do jogo:<br><br>Criação de Mundos Digitais: Adoro dar spawn a ideias através de linhas de código e ver o jogo começar!<br><br>Arquitetura de Sistemas: Entender como cada elemento se conecta para uma experiência imersiva é fascinante!<br><br>Inovação Tecnológica: Buscar easter eggs de soluções criativas para os desafios do futuro é o meu modo hardcore!<br><br>Sempre com o multiplayer ativado para novos desafios 🎯 e pronta para subir de ranking em jornadas de aprendizado que expandam meu skill tree no vasto mundo da tecnologia!</h4>
 
-Sou apaixonada por tecnologia e estou atualmente cursando Sistemas de Informação. Tenho uma dedicação especial à linguagem Java, mas também estou explorando Python e C. 
+###
 
-🚀 Desenvolvimento de software, a arquitetura de sistemas e a criação de soluções inovadoras em tecnologia são áreas que me empolgam profundamente.
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E0d2p5dXBrYnN4cjN0MDg3eG1xcmRoOHB0cGxzb21rZnU5MmU5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVQ9qp42uN13oog0nI/giphy.gif"  />
+</div>
 
-Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e habilidades.
+###
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%2300000f.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300000f.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-%2300000f?style=for-the-badge&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2300000f.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%2300000f.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/git-%2300000f.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BrunaSoug&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+###
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=BrunaSoug&theme=tokyonight&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunaSoug&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunaSoug&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
-# 📧 Conecte-se Comigo:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunaSoug/BrunaSoug/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunaSoug/BrunaSoug/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BrunaSoug/BrunaSoug/output/pacman-contribution-graph.svg">
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300000f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-souza-419b2a2b4/)
-
-
+###
